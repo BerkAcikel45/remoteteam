@@ -1,4 +1,4 @@
-# remoteteam
+# Diversity Demo Page 
 
 ## Project setup
 ```
