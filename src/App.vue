@@ -201,7 +201,7 @@ export default {
                 axios({
               url: 'https://api.airtable.com/v0/appdgoj7d38cDKOyt/Table%201',
               headers: {
-                'Authorization': 'Bearer keyhzddEVzMplNom7'
+                'Authorization': 'Bearer ******'
               }
             }).then((res) => {
                 for(var i=0;i<res.data.records.length;i++) {
